@@ -192,6 +192,60 @@
         "confirmPassword": "moihsdgf"
       },
       "id": 4
+    },
+    {
+      "personalInfo": {
+        "firstName": "joey",
+        "lastName": "star"
+      },
+      "contactPreference": "phone",
+      "email": {
+        "email": "",
+        "confirm": ""
+      },
+      "phone": "062009650",
+      "loginInfo": {
+        "username": "joey",
+        "password": "123",
+        "confirmPassword": "123"
+      },
+      "id": 5
+    },
+    {
+      "personalInfo": {
+        "firstName": "ninga",
+        "lastName": "reine"
+      },
+      "contactPreference": "phone",
+      "email": {
+        "email": "",
+        "confirm": ""
+      },
+      "phone": "077663145",
+      "loginInfo": {
+        "username": "reine",
+        "password": "123",
+        "confirmPassword": "123"
+      },
+      "id": 6
+    },
+    {
+      "personalInfo": {
+        "firstName": "Elza",
+        "lastName": "Eyang"
+      },
+      "contactPreference": "phone",
+      "email": {
+        "email": "",
+        "confirm": ""
+      },
+      "phone": "062344441",
+      "loginInfo": {
+        "username": "elza01",
+        "password": "elza123",
+        "confirmPassword": "elza123"
+      },
+      "id": 7
     }
   ],
   "candidates": [
@@ -202,7 +256,7 @@
       "email": "dfeacham0@sina.com.cn",
       "job": "Recruiter",
       "department": "Research and Development",
-      "company": "Bauch-Hettinger",
+      "company": "Snapface Ltd",
       "imageUrl": "https://i.pravatar.cc/100?img=1"
     },
     {
@@ -242,7 +296,7 @@
       "email": "bgyurko4@techcrunch.com",
       "job": "Executive Secretary",
       "department": "Services",
-      "company": "Corwin-Streich",
+      "company": "Snapface Ltd",
       "imageUrl": "https://i.pravatar.cc/100?img=5"
     },
     {
@@ -264,16 +318,6 @@
       "department": "Marketing",
       "company": "Powlowski, Halvorson and Weissnat",
       "imageUrl": "https://i.pravatar.cc/100?img=7"
-    },
-    {
-      "id": 8,
-      "firstName": "Gregoor",
-      "lastName": "Woolbrook",
-      "email": "gwoolbrook7@sciencedirect.com",
-      "job": "Software Consultant",
-      "department": "Business Development",
-      "company": "Bauch-Larson",
-      "imageUrl": "https://i.pravatar.cc/100?img=8"
     },
     {
       "id": 9,
@@ -312,7 +356,7 @@
       "email": "kdimitriadesb@qq.com",
       "job": "VP Product Management",
       "department": "Research and Development",
-      "company": "Ernser, Nienow and Ankunding",
+      "company": "Snapface Ltd",
       "imageUrl": "https://i.pravatar.cc/100?img=12"
     },
     {
